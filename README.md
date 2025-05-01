@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 👋 Hi, I'm Ilya<br>🎓 Currently a freshman in high school<br>🏫 Studying at Queen's College Taunton<br>💻 Intending to major in Computer Science<br>🌐 Currently working on a web app<br>🙏 Looking for an internship <br><br>📸 Check out my Instagram
 
 
